@@ -1,0 +1,11 @@
+country,year,gdp,unemployment,inflation,gdp_categorized,real_gdp_proxy,inflation_label,date_jan1,date_dec31,concat
+Canada,2023,1.9000000000000001,5.300000000000001,3.8,Moderate,0.54,Normal,2023-01-01,2023-12-31,canada
+USA,2023,2.4,3.6999999999999997,3.1,High,0.81,Normal,2023-01-01,2023-12-31,usa
+UK,2023,1.2,4.1000000000000005,4.6000000000000005,Low,0.3,Rapid,2023-01-01,2023-12-31,uk
+Germany,2023,0.6000000000000001,3.0,2.6999999999999997,Low,0.29,Normal,2023-01-01,2023-12-31,germany
+Japan,2023,0.8,2.5,2.1999999999999997,Low,0.43,Normal,2023-01-01,2023-12-31,japan
+Canada,2024,2.1,5.4,3.9,Moderate,0.54,Normal,2024-01-01,2024-12-31,canada
+USA,2024,2.6,3.8,3.2,High,0.81,Normal,2024-01-01,2024-12-31,usa
+UK,2024,1.4,4.2,4.7,Low,0.3,Rapid,2024-01-01,2024-12-31,uk
+Germany,2024,0.8,3.1,2.8,Low,0.29,Normal,2024-01-01,2024-12-31,germany
+Japan,2024,1.0,2.6,2.3,Low,0.43,Normal,2024-01-01,2024-12-31,japan
